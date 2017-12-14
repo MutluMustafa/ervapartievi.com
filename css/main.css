@@ -44,7 +44,7 @@ body h6 {
 	margin: 0px 0px 8px 0px;
 	text-transform:capitalize;
 }
-h1 { font-size: 50px;}
+h1 { font-size: 70px;}
 h2 { font-size: 30px;}
 h3 { font-size: 24px;}
 h4 { font-size: 16px;}
@@ -738,7 +738,7 @@ button.close span{
 	position:relative;
 	z-index:2;
 }
-.padding-section{ padding:60px 0;}
+.padding-section{ padding:40px 0;}
 .small-padding-section{ padding:50px 0;}
 .cart-badge{
 	position:absolute;
@@ -922,7 +922,7 @@ table.cart-table tbody td .btn-delete-item {float: right;}
 .mid-bar{ background:#fff;}
 .logo{
 	width:167px;
-	height:182px;
+	height:160px;
 	margin:-62px auto 0;
 	display:block;
 	position:relative;
@@ -1640,7 +1640,7 @@ ol.breadcrumb li a{color:#fff;}
 }
 .accordion-heading{
 	overflow:hidden;
-	background:#f7f7f7;
+	background:#414141;
 	border-radius:5px;
 }
 .accordion-heading h4{
@@ -1653,7 +1653,7 @@ ol.breadcrumb li a{color:#fff;}
 }
 .accordion-heading h4 a{
 	display:block;
-	color:#333;
+	color:#fff;
 	padding:0 20px;
 	clear:both;
 }
@@ -3333,4 +3333,9 @@ table.cart-table tfoot tr td{ width:50%;}
 .topstyle {
 	margin-top: 40px;
 
+}
+
+.sidebar-accordion .accordion-heading:hover {
+	background-color: #bfa16b;
+	
 }
