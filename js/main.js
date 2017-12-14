@@ -221,7 +221,7 @@ $(document).ready(function (e) {
         animation_speed: 'normal',
         theme: 'dark_square',
         slideshow: 3000,
-        autoplay_slideshow: true,
+        autoplay_slideshow: false,
         social_tools: false
     });
     /* -------------------------------------
