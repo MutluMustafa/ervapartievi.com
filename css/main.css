@@ -44,7 +44,7 @@ body h6 {
 	margin: 0px 0px 8px 0px;
 	text-transform:capitalize;
 }
-h1 { font-size: 70px;}
+h1 { font-size: 50px;}
 h2 { font-size: 30px;}
 h3 { font-size: 24px;}
 h4 { font-size: 16px;}
@@ -631,7 +631,7 @@ button.close span{
 .border-center{
 	overflow:hidden;
 	position:relative;
-	padding:0 0 30px;
+	padding:0 0px 30px;
 	margin:0 0 30px;
 }
 .border-left{
@@ -1175,7 +1175,7 @@ table.cart-table tbody td .btn-delete-item {float: right;}
 #product-slider .owl-controls .owl-buttons .owl-prev{ left:-13px;}
 #product-slider .owl-controls .owl-buttons .owl-next{right:-13px;}
 .owl-pagination{
-    right: 24%;
+    /*! right: 24%; */
     width: auto;
 }
 /* =============================================
